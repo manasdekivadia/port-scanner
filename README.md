@@ -1,2 +1,43 @@
-# port-scanner
-A Python-based port scanner tool is a  lightweight script that scans a target IP or domain for open ports. It uses socket programming and threading for efficient scanning and can display results in real-time. Ideal for cybersecurity professionals and network administrators, this tool aids in reconnaissance and security assessments.
+# 🔍 Python Port Scanner  
+
+A **lightweight and simple Python-based Port Scanner** that helps you scan open ports on a target machine. It is designed for ethical use, penetration testing, and network security assessments.  
+
+## 🚀 Features  
+
+✅ **Fast & Efficient** – Quickly scans a range of ports on a target.  
+✅ **Custom Port Range** – Specify a range of ports to scan.  
+✅ **Multi-threaded Scanning** – Improves scanning speed (if implemented).  
+✅ **Easy to Use** – Simple CLI-based tool with minimal dependencies.  
+
+---
+
+## 🛠 Installation & Setup  
+
+### 📥 Clone the Repository  
+```bash
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+```
+
+### 📌 Install Dependencies  
+Ensure you have Python installed. Then, install required dependencies (if any).  
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 🚀 Usage  
+
+### 🔹 Basic Scan  
+Run the script and provide the target IP/domain and port range.  
+```bash
+python port_scanner.py <target> <port_start_range> <port_end_range>
+```
+Example:  
+```bash
+python port_scanner.py 192.168.1.1 20 100
+```
+-
+## 🔒 Disclaimer  
+This tool is intended for **educational purposes only**. Do **NOT** use it to scan unauthorized systems. The developer is **not responsible** for any misuse.
