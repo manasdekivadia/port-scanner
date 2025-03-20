@@ -15,7 +15,7 @@ A **lightweight and simple Python-based Port Scanner** that helps you scan open 
 
 ### 📥 Clone the Repository  
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/manasdekivadia/port-scanner.git
 cd portscanner
 ```
 
