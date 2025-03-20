@@ -35,6 +35,5 @@ Example:
 ```bash
 python port_scanner.py 192.168.1.1 20 100
 ```
--
 ## 🔒 Disclaimer  
 This tool is intended for **educational purposes only**. Do **NOT** use it to scan unauthorized systems. The developer is **not responsible** for any misuse.
